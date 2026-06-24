@@ -5,17 +5,17 @@ const designs = [
   {
     name: 'Signature - 1',
     price: '₹ 70',
-    image: '../../images/Signature -1.jpg',
+    image: '/images/Signature -1.jpg',
   },
   {
     name: 'Signature - 2',
     price: '₹ 150',
-    image: '../../images/Signature -2.jpeg',
+    image: '/images/Signature -2.jpeg',
   },
  {
     name: 'Signature -3',
     price: '₹ 115',
-    image: '../../images/Signature -3.jpg',
+    image: '/images/Signature -3.jpg',
   },
 ]
 
