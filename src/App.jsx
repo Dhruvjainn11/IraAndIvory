@@ -15,7 +15,7 @@ export default function App() {
         <Hero />
         <SignatureDesigns />
         <Collection />
-        <WhyChooseUs />
+        {/* <WhyChooseUs /> */}
         <OrderingProcess />
         <Contact />
       </main>

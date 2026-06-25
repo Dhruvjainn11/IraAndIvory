@@ -10,6 +10,7 @@ const categories = [
       { name: 'The Classics - 3', price: '₹ 60', image: '/images/The Classics - 3.jpg' },
       { name: 'The Classics - 4', price: '₹ 65', image: '/images/The Classics - 4.jpg' },
       { name: 'The Classics - 5', price: '₹ 140', image: '/images/The Classics - 5.jpg' },
+      { name: 'The Classics - 6', price: '₹ 80', image: '/images/The Classics - 6.jpg' },
     ],
   },
   {

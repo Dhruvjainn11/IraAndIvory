@@ -9,7 +9,7 @@ const steps = [
 
 export default function OrderingProcess() {
   return (
-    <section id="order" className="py-32 px-6" style={{ background: '#F8F4EF' }}>
+    <section id="order" className="py-32 px-6"  style={{ background: '#EFE6DA' }}>
       <div className="max-w-[900px] mx-auto text-center">
         <SectionHeading
           label="How To Order"

@@ -18,7 +18,7 @@ const WhatsAppIcon = () => (
 
 export default function Contact() {
   return (
-    <section id="contact" className="py-32 px-6" style={{ background: '#EFE6DA' }}>
+    <section id="contact" className="py-32 px-6" style={{ background: '#F8F4EF' }}>
       <div className="max-w-[700px] mx-auto text-center">
         <SectionHeading label="Get In Touch" title="Let's Create Something Meaningful" />
 
