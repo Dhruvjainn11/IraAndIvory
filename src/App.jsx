@@ -6,7 +6,7 @@ import WhyChooseUs from './components/WhyChooseUs'
 import OrderingProcess from './components/OrderingProcess'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react";
 
 
 export default function App() {
