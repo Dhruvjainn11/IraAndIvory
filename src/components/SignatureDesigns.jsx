@@ -4,7 +4,7 @@ import { FadeUp, SectionHeading } from './shared'
 const designs = [
   {
     name: 'Signature - 1',
-    price: '₹ 70',
+    price: '₹ 100',
     image: '/images/Signature -1.jpg',
   },
   {
@@ -14,7 +14,7 @@ const designs = [
   },
  {
     name: 'Signature -3',
-    price: '₹ 115',
+    price: '₹ 70',
     image: '/images/Signature -3.jpg',
   },
 ]

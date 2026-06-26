@@ -2,7 +2,6 @@ import { motion, useScroll, useTransform } from 'framer-motion'
 
 const links = [
   { label: 'Designs', href: '#collection' },
-  { label: 'Why Us', href: '#why' },
   { label: 'Contact', href: '#contact' },
 ]
 
